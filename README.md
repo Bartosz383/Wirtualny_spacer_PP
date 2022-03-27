@@ -1,4 +1,5 @@
-# Wirtualny_spacer_PP
+# Wirtualny spacer po Politechnice Poznańskiej 
+Jest przedsięwzięciem mającym na celu przenieść budynki Politechniki do przestrzeni cyfrowej oraz nadaniu im interaktywności co poznwoli na lepsze zaznajomienie się z Politechnikom nowym i potencjalnym studentom.
 
 ## Plan maksimum:
 
