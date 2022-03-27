@@ -12,3 +12,7 @@
 
 ## Plan minimum 
 - Zeskanowanie jednego z budynków Politechniki w środku, tylko korytarz.
+
+## Widok na Kampus Warta
+![image](https://user-images.githubusercontent.com/62513514/160277411-816cf855-61df-4916-b144-0bb5fc64918d.png)
+![image](https://user-images.githubusercontent.com/62513514/160277480-9b12b6f4-0529-430d-b428-93e33e4f1730.png)
